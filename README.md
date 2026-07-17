@@ -258,7 +258,7 @@ Built by Vivek Mishra for interview preparation.
 ## Contact & Support
 
 For issues, questions, or suggestions, please reach out:
-- Email: vivekmishraiit@gmail.com
+- Email: bandikatlavivekkumar@gmail.com
 - GitHub: [Your GitHub Profile]
 
 ---
