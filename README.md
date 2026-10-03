@@ -252,15 +252,11 @@ Error: listen EADDRINUSE: address already in use :::5000
 MIT
 
 ## Author
-
-Built by Vivek Mishra for interview preparation.
-
+Bandikatla Vivekkumar
 ## Contact & Support
 
 For issues, questions, or suggestions, please reach out:
 - Email: bandikatlavivekkumar@gmail.com
-- GitHub: [Your GitHub Profile]
-
 ---
 
 **Happy Gaming! 🎮**
